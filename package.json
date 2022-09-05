@@ -1,7 +1,20 @@
 {
   "name": "react-ts-template",
-  "version": "0.1.0",
+  "description": "This is a Typescript ReactJS Template",
+  "version": "1.0.0",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Julierme Mello",
+    "url": "https://github.com/juliermemello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliermemello/react-ts-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juliermemello/react-ts-template/issues"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
